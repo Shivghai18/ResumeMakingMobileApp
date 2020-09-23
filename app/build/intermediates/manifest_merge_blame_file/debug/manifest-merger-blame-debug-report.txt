@@ -1,0 +1,80 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.tirth.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->A:\final_project\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->A:\final_project\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->A:\final_project\app\src\main\AndroidManifest.xml:5:5-31:19
+12        android:allowBackup="true"
+12-->A:\final_project\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.0.0] C:\Users\shiva\.gradle\caches\transforms-2\files-2.1\45ca2b27b5a8d2aecb4ee89b6457658f\core-1.0.0\AndroidManifest.xml:22:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->A:\final_project\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->A:\final_project\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->A:\final_project\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->A:\final_project\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->A:\final_project\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity android:name="com.example.tirth.myapplication.Splashscreen" >
+21-->A:\final_project\app\src\main\AndroidManifest.xml:12:9-18:20
+21-->A:\final_project\app\src\main\AndroidManifest.xml:12:19-47
+22            <intent-filter>
+22-->A:\final_project\app\src\main\AndroidManifest.xml:13:13-17:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->A:\final_project\app\src\main\AndroidManifest.xml:14:17-69
+23-->A:\final_project\app\src\main\AndroidManifest.xml:14:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->A:\final_project\app\src\main\AndroidManifest.xml:16:17-77
+25-->A:\final_project\app\src\main\AndroidManifest.xml:16:27-74
+26            </intent-filter>
+27        </activity>
+28        <activity android:name="com.example.tirth.myapplication.MainActivity" />
+28-->A:\final_project\app\src\main\AndroidManifest.xml:19:9-50
+28-->A:\final_project\app\src\main\AndroidManifest.xml:19:19-47
+29        <activity android:name="com.example.tirth.myapplication.HomeScreen" />
+29-->A:\final_project\app\src\main\AndroidManifest.xml:20:9-48
+29-->A:\final_project\app\src\main\AndroidManifest.xml:20:19-45
+30        <activity android:name="com.example.tirth.myapplication.PersonalInformation" />
+30-->A:\final_project\app\src\main\AndroidManifest.xml:21:9-57
+30-->A:\final_project\app\src\main\AndroidManifest.xml:21:19-54
+31        <activity android:name="com.example.tirth.myapplication.EducationDetails" />
+31-->A:\final_project\app\src\main\AndroidManifest.xml:22:9-54
+31-->A:\final_project\app\src\main\AndroidManifest.xml:22:19-51
+32        <activity android:name="com.example.tirth.myapplication.SelectProfession" />
+32-->A:\final_project\app\src\main\AndroidManifest.xml:23:9-54
+32-->A:\final_project\app\src\main\AndroidManifest.xml:23:19-51
+33        <activity android:name="com.example.tirth.myapplication.SkillActivity" />
+33-->A:\final_project\app\src\main\AndroidManifest.xml:24:9-51
+33-->A:\final_project\app\src\main\AndroidManifest.xml:24:19-48
+34        <activity android:name="com.example.tirth.myapplication.IntrestActivity" />
+34-->A:\final_project\app\src\main\AndroidManifest.xml:25:9-53
+34-->A:\final_project\app\src\main\AndroidManifest.xml:25:19-50
+35        <activity android:name="com.example.tirth.myapplication.Experience" />
+35-->A:\final_project\app\src\main\AndroidManifest.xml:26:9-48
+35-->A:\final_project\app\src\main\AndroidManifest.xml:26:19-45
+36        <activity android:name="com.example.tirth.myapplication.Project" />
+36-->A:\final_project\app\src\main\AndroidManifest.xml:27:9-45
+36-->A:\final_project\app\src\main\AndroidManifest.xml:27:19-42
+37        <activity android:name="com.example.tirth.myapplication.Reference" />
+37-->A:\final_project\app\src\main\AndroidManifest.xml:28:9-47
+37-->A:\final_project\app\src\main\AndroidManifest.xml:28:19-44
+38        <activity android:name="com.example.tirth.myapplication.FinalActivityDisplay" />
+38-->A:\final_project\app\src\main\AndroidManifest.xml:29:9-67
+38-->A:\final_project\app\src\main\AndroidManifest.xml:29:19-55
+39    </application>
+40
+41</manifest>

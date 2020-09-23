@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+    android:background="@drawable/background"
+tools:context="com.example.tirth.myapplication.PersonalInformation">
+
+
+<TextView
+    android:id="@+id/tvtittle"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentTop="true"
+    android:layout_marginEnd="132dp"
+    android:layout_marginTop="24dp"
+    android:ellipsize="middle"
+    android:text="Personal Information"
+    android:textColor="@android:color/black" />
+
+<EditText
+    android:id="@+id/etuname"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentStart="true"
+    android:layout_below="@+id/tvtittle"
+    android:layout_marginTop="18dp"
+    android:ems="10"
+    android:hint="Your Name"
+    android:inputType="textPersonName" />
+
+<EditText
+    android:id="@+id/etaddress1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentStart="true"
+    android:layout_below="@+id/etuname"
+    android:layout_marginTop="5dp"
+    android:ems="10"
+    android:hint="Address Line 1"
+    android:inputType="textPostalAddress" />
+
+<EditText
+    android:id="@+id/etaddress2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentStart="true"
+    android:layout_below="@+id/etaddress1"
+    android:layout_marginTop="5dp"
+    android:ems="10"
+    android:hint="Address Line 2"
+    android:inputType="textPostalAddress" />
+
+<EditText
+    android:id="@+id/etcity"
+    android:layout_width="160dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:ems="10"
+    android:hint="City"
+    android:inputType="textPersonName"
+    android:layout_below="@+id/etaddress2"
+    android:layout_alignParentStart="true" />
+
+<EditText
+    android:id="@+id/etstate"
+    android:layout_width="160dp"
+    android:layout_height="wrap_content"
+    android:layout_alignBaseline="@+id/etcity"
+    android:layout_alignBottom="@+id/etcity"
+    android:layout_alignParentEnd="true"
+    android:layout_marginTop="5dp"
+    android:ems="10"
+    android:hint="State"
+    android:inputType="textPersonName" />
+
+<EditText
+    android:id="@+id/etcountry"
+    android:layout_width="160dp"
+    android:layout_height="wrap_content"
+    android:layout_alignParentStart="true"
+    android:layout_below="@+id/etcity"
+    android:layout_marginTop="5dp"
+    android:ems="10"
+    android:hint="Country"
+    android:inputType="textPersonName" />
+
+<EditText
+    android:id="@+id/etpin"
+    android:layout_width="160dp"
+    android:layout_height="wrap_content"
+    android:layout_alignParentEnd="true"
+    android:ems="10"
+    android:hint="Pin/Zip"
+    android:inputType="textPersonName"
+    android:layout_alignTop="@+id/etcountry" />
+
+<EditText
+    android:id="@+id/etmail"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentStart="true"
+    android:layout_below="@+id/etcountry"
+    android:layout_marginTop="5dp"
+    android:ems="10"
+    android:hint="Your Email"
+    android:inputType="textEmailAddress" />
+
+<EditText
+    android:id="@+id/etcnumber"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentStart="true"
+    android:layout_below="@+id/etmail"
+    android:layout_marginTop="5dp"
+    android:ems="10"
+    android:hint="Contact Number"
+    android:inputType="number" />
+
+<EditText
+    android:id="@+id/etnationality"
+    android:layout_width="160dp"
+    android:layout_height="wrap_content"
+    android:layout_alignParentStart="true"
+    android:layout_below="@+id/etcnumber"
+    android:layout_marginTop="5dp"
+    android:ems="10"
+    android:hint="Nationality"
+    android:inputType="textPersonName" />
+
+<Button
+    android:id="@+id/btnnext"
+    android:layout_width="160dp"
+    android:layout_height="wrap_content"
+    android:text="Next"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentEnd="true" />
+
+<Button
+    android:id="@+id/btnback"
+    android:layout_width="160dp"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentStart="true"
+    android:text="Back" />
+
+<EditText
+    android:id="@+id/etdate"
+    android:layout_width="160dp"
+    android:layout_height="wrap_content"
+    android:ems="10"
+    android:inputType="textPersonName"
+    android:hint="Date of Brith"
+    android:layout_alignBaseline="@+id/etnationality"
+    android:layout_alignBottom="@+id/etnationality"
+    android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>
+

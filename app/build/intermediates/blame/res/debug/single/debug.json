@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_screen.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\layout\\activity_home_screen.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpg.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_dialog.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\layout\\login_dialog.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_person_add_black_24dp.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_person_add_black_24dp.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resumepicture.jpg.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\drawable\\resumepicture.jpg"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation_menu.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_person_add_black_24dp.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-mdpi\\ic_person_add_black_24dp.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_project.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\layout\\activity_project.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screenshot.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\drawable\\screenshot.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_personal_information.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\layout\\activity_personal_information.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cv.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\drawable\\cv.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_education_details.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\layout\\activity_education_details.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_person_add_black_24dp.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_person_add_black_24dp.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_experiance2.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\layout\\activity_experiance2.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select_profession.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\layout\\activity_select_profession.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_person_add_black_24dp.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-hdpi\\ic_person_add_black_24dp.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-hdpi\\ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-mdpi\\ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_final_display.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\layout\\activity_final_display.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reference.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\layout\\activity_reference.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_navigation_header.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\layout\\navigation_header.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\anim_tweenanim.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\anim\\tweenanim.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_skill.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\layout\\activity_skill.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_experiance.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\layout\\activity_experiance.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_customdialogbox.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\layout\\customdialogbox.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_person_add_black_24dp.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_person_add_black_24dp.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\anim_tweenanimation.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\anim\\tweenanimation.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_custom_dialog.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\layout\\activity_custom_dialog.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_intrest.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\layout\\activity_intrest.xml"
+    },
+    {
+        "merged": "A:\\final_project\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splashscreen.xml.flat",
+        "source": "A:\\final_project\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    }
+]

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CV Maker</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="skill">
+        <item>Programmer</item>
+        <item>Networker</item>
+        <item>Designer</item>
+    </string-array>
+    <string-array name="Programmer">
+        <item>Java Language</item>
+        <item> Andriod </item>
+        <item>Dot net</item>
+        <item>Php</item>
+    </string-array>
+
+    <string-array name="Designer">
+        <item></item>
+        <item> CorelDRAW  </item>
+        <item>Blender</item>
+        <item>Adobe Photoshop </item>
+        <item>Adobe Illustrator</item>
+    </string-array>
+
+
+    <string-array name="Networker">
+        <item>Ethical Hacker</item>
+        <item> Cyber Security </item>
+        <item>Cyber Law</item>
+
+    </string-array>
+
+    <string name="title_activity_intrest">IntrestActivity</string>
+
+</resources>

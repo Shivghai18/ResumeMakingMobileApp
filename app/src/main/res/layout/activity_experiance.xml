@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+    android:background="@drawable/background"
+android:orientation="vertical"
+tools:context="com.example.tirth.myapplication.Experience">
+android:weightSum="1">
+
+<TextView
+    android:id="@+id/textView3"
+    android:layout_width="wrap_content"
+    android:layout_height="70dp"
+    android:fontFamily="sans-serif-condensed"
+    android:gravity="center"
+    android:text="Give the employer a brief of all the positive you've held and the work you'ev done till now."
+    android:textSize="21dp"
+    android:layout_weight="0.11" />
+
+    <EditText
+        android:id="@+id/editText4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.00"
+        android:ems="10"
+        android:fontFamily="sans-serif-condensed"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        android:textSize="22sp" />
+
+<EditText
+    android:id="@+id/editText5"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="0.00"
+    android:ems="10"
+    android:textSize="22sp"
+    android:fontFamily="sans-serif-condensed"
+    android:inputType="textPersonName"
+    android:hint="Experience" />
+
+<EditText
+    android:id="@+id/editText6"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="0.00"
+    android:ems="10"
+    android:textSize="22sp"
+    android:fontFamily="sans-serif-condensed"
+    android:inputType="textPersonName"
+    android:hint="Designation" />
+<EditText
+    android:id="@+id/editText1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="0.00"
+    android:ems="10"
+    android:textSize="22sp"
+    android:fontFamily="sans-serif-condensed"
+    android:inputType="textPersonName"
+    android:hint="What you did there?" />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="61dp"
+    android:layout_weight="0.71">
+
+</LinearLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="0.16"
+    android:weightSum="2">
+
+    <Button
+        android:id="@+id/btnback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.97"
+        android:text="Back"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/btnnext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Next"
+        android:textSize="22sp"
+ />
+</LinearLayout>
+</LinearLayout>

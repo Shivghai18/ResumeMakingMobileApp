@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+    android:background="@drawable/background"
+tools:context="com.example.tirth.myapplication.EducationDetails"
+android:weightSum="1">
+
+<EditText
+    android:id="@+id/txtsname"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:ems="10"
+    android:hint="School Name"
+    android:inputType="textPersonName" />
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:orientation="horizontal"></LinearLayout>
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="66dp"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/txtstr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Stream:"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
+
+    <RadioGroup
+        android:id="@+id/rgp"
+        android:layout_width="263dp"
+        android:layout_height="match_parent">
+
+        <RadioButton
+            android:id="@+id/rbs"
+            android:layout_width="91dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Science" />
+
+        <RadioButton
+            android:id="@+id/rba"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Arts" />
+
+        <RadioButton
+            android:id="@+id/rbc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Commerce" />
+
+    </RadioGroup>
+
+</LinearLayout>
+
+<EditText
+    android:id="@+id/txtptage"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:ems="10"
+    android:hint="Percentage(in 12th)"
+    android:inputType="numberDecimal" />
+
+<EditText
+    android:id="@+id/txtcname"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:ems="10"
+    android:hint="College Name"
+    android:inputType="textPersonName" />
+
+<EditText
+    android:id="@+id/txtcgpa"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:ems="10"
+    android:hint="CGPA"
+    android:inputType="numberDecimal" />
+
+<TextView
+    android:id="@+id/txtheading"
+    android:layout_width="363dp"
+    android:layout_height="wrap_content"
+    android:layout_weight="0.08"
+    android:text="        Course/Degree:"
+    android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+    android:textSize="30sp" />
+
+<Spinner
+    android:id="@+id/spncourse"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+
+<LinearLayout
+    android:layout_width="120dp"
+    android:layout_height="24dp"
+    android:orientation="horizontal"></LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/radioButton4"
+            android:layout_width="133dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Others" />
+
+        <EditText
+            android:id="@+id/txtothers"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ."
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnnext"
+        android:layout_width="111dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Next" />
+
+</LinearLayout>

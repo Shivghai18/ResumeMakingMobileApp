@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Is there someone who can vouch for your good work?If yes,enter their current contact information."
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textSize="36sp" />
+
+    <RadioGroup
+        android:id="@+id/Rbg"
+        android:layout_width="match_parent"
+        android:layout_height="115dp">
+
+        <RadioButton
+            android:id="@+id/rbyes"
+            android:layout_width="96dp"
+            android:layout_height="1dp"
+            android:layout_weight="1"
+            android:text="Yes"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+            android:textSize="30sp" />
+
+        <RadioButton
+            android:id="@+id/rbno"
+            android:layout_width="95dp"
+            android:layout_height="3dp"
+            android:layout_weight="1"
+            android:text="No"
+            android:textSize="30sp" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btnsub"
+        android:layout_width="219dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Submit" />
+
+</LinearLayout>

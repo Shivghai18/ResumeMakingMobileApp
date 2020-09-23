@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+    android:background="@drawable/background"
+android:layout_height="match_parent"
+android:orientation="vertical"
+tools:context="com.example.tirth.myapplication.Project">
+android:weightSum="1">
+
+<TextView
+    android:id="@+id/textView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:text="Project Details"
+    android:fontFamily="sans-serif-condensed"
+    android:textSize="22sp"
+    tools:layout_editor_absoluteX="45dp"
+    tools:layout_editor_absoluteY="16dp" />
+
+<TextView
+    android:id="@+id/textView2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="22sp"
+    android:gravity="center"
+    android:fontFamily="sans-serif-condensed"
+    android:text="Give the employer a brief of all the projects you have done."
+    android:layout_weight="0.11" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="sans-serif-condensed"
+        android:hint="Project Name"
+        android:inputType="textPersonName"
+        android:textSize="22sp" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="sans-serif-condensed"
+        android:hint="Project Description"
+        android:inputType="textPersonName"
+        android:textSize="22sp" />
+
+<EditText
+    android:id="@+id/editText3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:ems="10"
+    android:textSize="22sp"
+    android:fontFamily="sans-serif-condensed"
+    android:inputType="textPersonName"
+    android:hint="Company name" />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="61dp"
+    android:layout_weight="0.71">
+
+</LinearLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="0.16"
+    android:weightSum="2">
+
+    <Button
+        android:id="@+id/Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.97"
+        android:text="Back"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Next"
+        android:textSize="22sp" />
+</LinearLayout>
+</LinearLayout>
